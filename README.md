@@ -1,3 +1,3 @@
-# Sistema-Controlador-de-Pedidos
+# Sistema-Gestor-de-OS
 
-Aqui desenvolvemos um sistema em Java simples, como o próprio nome já diz, para controlar os pedidos de uma parte interessada.
+Aqui desenvolveremos um sistema em Java simples, como o próprio nome já diz, para controlar as Ordens de Serviço de uma empresa.
