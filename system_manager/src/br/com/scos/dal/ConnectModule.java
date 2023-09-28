@@ -18,7 +18,7 @@ public class ConnectModule {
         // Chama o driver.
         String driver = "com.mysql.cj.jdbc.Driver";
         // Armazena informações uteis sobre o banco de dados.
-        String url = "jdbc:mysql://localhost:3306/?user=root";
+        String url = "jdbc:mysql://localhost:3306/dbsyscontroll";
         String user = "root";
         String password = "Grd@2018!";
         // Estabelece a conexão entre o banco e o Java.
